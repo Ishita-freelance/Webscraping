@@ -18,7 +18,7 @@ Each project simulates real-world freelance tasks and demonstrates my ability to
 ---
 
 ## 📬 Connect with Me
-- GitHub: https://github.com/Ishita-freelance/Webscraping
+- GitHub: https://github.com/Ishita-freelance
 - LinkedIn: https://www.linkedin.com/in/ishita-tyagi-766868221
 
 ---
